@@ -1,5 +1,4 @@
 {
-  "homepage": "https://VaibhaRanghar.github.io/ReactTests/",
   "name": "react-revision",
   "private": false,
   "version": "0.0.0",
@@ -8,9 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "localtunnel": "^2.0.2",
