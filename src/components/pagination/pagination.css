@@ -1,0 +1,20 @@
+.pagination{
+    margin-top: 200px;    
+    margin-bottom: 200px;
+}
+
+.btn{
+    background-color: green;
+    margin: 2px;
+}
+.btn.active{
+    background-color: red;
+}
+.btn-nav{
+    border: 2px solid green;
+    color: green;
+}
+.btn-nav:disabled{
+    border: 2px solid gray;
+    color: gray;
+}
